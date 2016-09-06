@@ -2,12 +2,12 @@
 include("../layout/header.php");
 $no_pendaftaran = $_GET['no_pendaftaran'];
 ?>
-<title>Penambahan Data Obat Poliklinik TRSNW.</title>
+<title>Penambahan Data Data Obat Poliklinik TRSNW.</title>
 <div id="page-wrapper">
 <div class="well">
 	<br>
 	<center>
-	<label><h3>Penambahan Data Poliklinik</h3></label>
+	<label><h3>Penambahan Data Datatatatata s Poliklinik</h3></label>
 	</center>
 </div>
 <div class="well">
